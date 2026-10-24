@@ -53,7 +53,7 @@ EDA-Customer_Churn_Analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/EDA-Customer_Churn_Analysis.git
+git clone https://github.com/vishnukonjeti/EDA-Customer_Churn_Analysis.git
 cd EDA-Customer_Churn_Analysis
 ```
 
@@ -83,3 +83,4 @@ jupyter notebook customer_churn_analysis.ipynb
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
+
